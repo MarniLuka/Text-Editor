@@ -29,8 +29,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Possitvely Amazing Web Service',
-        short_name: 'PAWS',
+        name: 'Just Another Text Editor',
+        short_name: 'JATE',
         description: 'Text Editor',
         background_color: '#77C4A3',
         start_url: '/',
